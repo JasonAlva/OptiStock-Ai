@@ -295,10 +295,10 @@ OptiStock-Ai/
 
 ### Environment Variables
 
-Create a `.env` file in the root directory (optional):
+Create a `.env` file in the root directory if needed for customization (optional):
 
 ```env
-VITE_API_URL=http://localhost:3000
+# Example environment variables (customize as needed)
 VITE_MAX_UPLOAD_SIZE=10485760
 ```
 
